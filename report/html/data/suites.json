@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "Testlogin",
+        "children" : [ {
+          "name" : "test_cass001",
+          "uid" : "97e866a06818e79",
+          "parentUid" : "57ef600872bb3bc771e744884dde3f49",
+          "status" : "failed",
+          "time" : {
+            "start" : 1638169626555,
+            "stop" : 1638169626555,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_cass002",
+          "uid" : "bc19b72f452de24f",
+          "parentUid" : "57ef600872bb3bc771e744884dde3f49",
+          "status" : "passed",
+          "time" : {
+            "start" : 1638169626832,
+            "stop" : 1638169626832,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_cass003",
+          "uid" : "815e4098d44c5e03",
+          "parentUid" : "57ef600872bb3bc771e744884dde3f49",
+          "status" : "passed",
+          "time" : {
+            "start" : 1638169626836,
+            "stop" : 1638169626836,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "57ef600872bb3bc771e744884dde3f49"
+      } ],
+      "uid" : "5308816e98be8877fda327cc882cfe13"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

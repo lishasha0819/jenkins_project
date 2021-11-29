@@ -1,0 +1,31 @@
+[ {
+  "uid" : "bc19b72f452de24f",
+  "name" : "test_cass002",
+  "time" : {
+    "start" : 1638169626832,
+    "stop" : 1638169626832,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "815e4098d44c5e03",
+  "name" : "test_cass003",
+  "time" : {
+    "start" : 1638169626836,
+    "stop" : 1638169626836,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97e866a06818e79",
+  "name" : "test_cass001",
+  "time" : {
+    "start" : 1638169626555,
+    "stop" : 1638169626555,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
