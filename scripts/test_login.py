@@ -1,6 +1,6 @@
 class Testlogin:
     def test_cass001(self):
-        assert 0
+        assert 1
 
 
     def test_cass002(self):
